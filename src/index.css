@@ -35,7 +35,7 @@ a {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    transition: background-color 0.3s, color 0.3s; /* Added transition for hover effect */
+    transition: background-color 0.3s, color 0.3s; 
 }
 
 .btn img {
@@ -49,11 +49,11 @@ a {
 }
 
 .btn:hover {
-    background-color: #e0e0e0; /* Light gray on hover */
+    background-color: #e0e0e0; 
 }
 
 .btn.dark-btn:hover {
-    background-color: #1a1a80; /* Darker shade on hover */
+    background-color: #1a1a80; 
 }
 
 @media (max-width: 1200px){
